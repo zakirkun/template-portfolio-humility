@@ -19,7 +19,7 @@
     "react-spring": "^7.2.10",
     "react-waypoint": "^8.1.0",
     "styled-components": "^4.0.0",
-    "terser": "^3.14.1"
+    "terser": "^4.8.1"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
